@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Logo" width="80" height="80">
+    <img src="https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Redux Toolkit Counter Application</h3>
