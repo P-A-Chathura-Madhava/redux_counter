@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://traintimetable.lk/wp-content/uploads/2023/04/Train-Timetable-Reservation.png" alt="Logo" width="80" height="80">
+    <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Redux Toolkit Counter Application</h3>
